@@ -1,2 +1,2 @@
 # PureURLClassifier
-Purely URL based topic classifier
+Purely URL based topic classifier using Logistic Regression and DMOZ dataset
